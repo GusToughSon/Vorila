@@ -1,0 +1,51 @@
+﻿Build started 4/21/2013 10:48:40 PM.
+     1>Project "C:\Users\Mark\Old Games\Vorlia\trunk\VorliaTools\Vorlia tools.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\Vorlia tools.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(89): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(130) : see declaration of 'kbhit'
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(91): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(215): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(216): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(233): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(391): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(391): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(391): error C2065: 'towhere' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(391): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(393): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(394): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(396): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(396): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(407): error C2065: 'requestwhat' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(417): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(417): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(417): error C2065: 'towhere' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(417): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(422): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(422): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(433): error C2065: 'requestwhat' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(438): error C2065: 'requestwhat' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(446): error C2065: 'requestwhat' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(456): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(456): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(456): error C2065: 'towhere' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(456): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(458): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(459): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(461): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(461): error C2065: 'i' : undeclared identifier
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(889): warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(892): warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+     1>c:\users\mark\old games\vorlia\trunk\vorliatools\main.cpp(895): warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+     1>Done Building Project "C:\Users\Mark\Old Games\Vorlia\trunk\VorliaTools\Vorlia tools.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.80

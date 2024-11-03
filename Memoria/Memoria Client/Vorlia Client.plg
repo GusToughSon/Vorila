@@ -1,0 +1,98 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Vorlia Client - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Luis\LOCALS~1\Temp\RSP32D.tmp" with contents
+[
+/nologo /MD /W3 /Gm /GX /ZI /Od /I "..\SDL\include" /I "..\SDL_Image" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"..\..\..\output\vorlia_client\debug/" /Fp"..\..\..\output\vorlia_client\debug/Vorlia Client.pch" /YX /Fo"..\..\..\output\vorlia_client\debug/" /Fd"..\..\..\output\vorlia_client\debug/" /FD /GZ /TP /NODEFAULTLIB:library /c 
+"C:\Documents and Settings\Luis\Desktop\Programming\Vorlia\vorlia_client4642\Vorlia Client\InitAll.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Luis\LOCALS~1\Temp\RSP32D.tmp" 
+Creating temporary file "C:\DOCUME~1\Luis\LOCALS~1\Temp\RSP32E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /profile /debug /machine:I386 /out:"Debug/Vorlia Client.exe" /libpath:"..\SDL\libs\release" /libpath:"..\SDL_Image\libs\debug" 
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\algorithms.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\body.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\button.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\class_stringtable.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\drag.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\draw.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\events.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\FileHandling.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Identify.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\InfoMsg.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\InitAll.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\main.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\minimap.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\monsters.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\npc.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\players.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\race.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Tables.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\textedit.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Blacksmithing.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Clan deed.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\GMTool.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Quickslots.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Secure trade.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Shop.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\skills.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\textlink.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\BFont.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\surfaces.obj"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\VorliaSDL.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\Luis\LOCALS~1\Temp\RSP32E.tmp"
+<h3>Output Window</h3>
+Compiling...
+Command line warning D4002 : ignoring unknown option '/NODEFAULTLIB:library'
+InitAll.cpp
+Linking...
+Creating temporary file "C:\DOCUME~1\Luis\LOCALS~1\Temp\RSP330.tmp" with contents
+[
+/nologo /o"Debug/Vorlia Client.bsc" 
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\algorithms.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\body.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\button.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\class_stringtable.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\drag.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\draw.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\events.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\FileHandling.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Identify.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\InfoMsg.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\InitAll.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\main.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\minimap.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\monsters.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\npc.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\players.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\race.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Tables.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\textedit.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Blacksmithing.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Clan deed.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\GMTool.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Quickslots.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Secure trade.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\Shop.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\skills.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\textlink.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\BFont.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\surfaces.sbr"
+"\Documents and Settings\Luis\Desktop\Programming\output\vorlia_client\debug\VorliaSDL.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\Luis\LOCALS~1\Temp\RSP330.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Vorlia Client.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
