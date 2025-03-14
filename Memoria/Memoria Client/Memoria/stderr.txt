@@ -1,5 +1,2 @@
 testia
-InitSDL(); ... testia
-success.
-test
-bubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibaLoading map...done.
+InitSDL(); ... 
