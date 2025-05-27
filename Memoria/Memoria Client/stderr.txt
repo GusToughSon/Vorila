@@ -1,2 +1,6 @@
 testia
-InitSDL(); ... 
+InitSDL(); ... testia
+success.
+test
+bubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibabubebibaLoading map...done.
+Initializing networking...
