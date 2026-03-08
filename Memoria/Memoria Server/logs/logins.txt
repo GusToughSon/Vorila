@@ -13,3 +13,8 @@
 05/25/25 18:54:02 [IP]: 127.0.0.1 [Account name]: asd [Account pass]: asd
 05/25/25 18:57:04 [IP]: 127.0.0.1 [Account name]: Gus [Account pass]: Gus
 05/25/25 18:57:10 [IP]: 127.0.0.1 [Account name]: Gus [Account pass]: gus
+----------------------------------------------------------------------
+ New server session.  
+----------------------------------------------------------------------
+03/03/26 19:03:02 [IP]: 127.0.0.1 [Account name]:  [Account pass]: 
+03/03/26 19:03:09 [IP]: 127.0.0.1 [Account name]:  [Account pass]: 
